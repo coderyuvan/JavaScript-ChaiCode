@@ -30,7 +30,7 @@ const user1=[
 const user={
     name:"paalu",
    age:232,
-   sex:"Mn nhi krta feel guilty",
+   sex:"always",
 }
 //  syntax
 const {name :n}=user;
